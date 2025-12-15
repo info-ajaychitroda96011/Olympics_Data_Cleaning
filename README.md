@@ -69,15 +69,16 @@ The interactive website provides the following functionalities:
 
 
 ## ▶️ How to Run the Project
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/info-ajaychitroda96011/Olympics_Data_Cleaning.git
 
-2. Changed Directory(Go to project disrectory):
+2. **Changed Directory(Go to project disrectory):**
   ```bash
-   cd olympics-analysis
+  cd olympics-analysis 
 
-3. Run the Streamlit app:
+3. **Run the Streamlit app:**
   ```bash
   streamlit run app.py
 
