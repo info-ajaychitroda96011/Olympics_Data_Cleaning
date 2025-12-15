@@ -75,8 +75,12 @@ The interactive website provides the following functionalities:
    git clone https://github.com/info-ajaychitroda96011/Olympics_Data_Cleaning.git
 
 2. **Changed Directory(Go to project disrectory):**
-  ```bash
-  cd olympics-analysis
+   ```bash
+   cd olympics-analysis
+
+3. **Run the Streamlit app:**
+   ```bash
+   Run the Streamlit app
 
 
 
