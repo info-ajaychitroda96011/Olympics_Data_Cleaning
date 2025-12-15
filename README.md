@@ -8,7 +8,7 @@ The project demonstrates strong skills in **data cleaning, preprocessing, explor
 ---
 
 ## 📸 Dashboard Preview
-![Olympics Analysis Dashboard](Screenshot-2025-12-15-122500.png)
+![Olympics Analysis Dashboard](Screenshots/Home.png)
 
 ---
 
