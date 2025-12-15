@@ -70,4 +70,4 @@ The interactive website provides the following functionalities:
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/olympics-analysis.git
+   git clone [https://github.com/your-username/olympics-analysis.git](https://github.com/info-ajaychitroda96011/Olympics_Data_Cleaning.git)
