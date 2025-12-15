@@ -68,7 +68,7 @@ The interactive website provides the following functionalities:
 ---
 
 
-## ▶️ How to Run the Project
+## ▶️ How to Run the Project 
 
 1. **Clone the repository:**
    ```bash
@@ -76,9 +76,7 @@ The interactive website provides the following functionalities:
 
 2. **Changed Directory(Go to project disrectory):**
   ```bash
-  cd olympics-analysis 
+  cd olympics-analysis
 
-3. **Run the Streamlit app:**
-  ```bash
-  streamlit run app.py
+
 
