@@ -81,7 +81,7 @@ The interactive website provides the following functionalities:
 3. **Run the Streamlit app:**
    ```bash
    streamlit run app.py
-
+---
 
 
 
