@@ -80,7 +80,7 @@ The interactive website provides the following functionalities:
 
 3. **Run the Streamlit app:**
    ```bash
-   Run the Streamlit app
+   streamlit run app.py
 
 
 
