@@ -83,6 +83,9 @@ The interactive website provides the following functionalities:
    streamlit run app.py
 ---
 
+## 👤 Author
+**Ajay Chitroda**  
+Data Analyst | Data Scientist
 
 
 
